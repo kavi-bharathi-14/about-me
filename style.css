@@ -1,0 +1,30 @@
+
+    h1{
+        color:rgb(139, 253, 229);
+        border:solid;
+    }
+
+
+.header{
+    background-color: rgb(243, 71, 122);
+    display: flex;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+    border: solid;
+}
+.menu{
+    background-color:gold;
+   display: flex;
+   justify-content:inherit;
+}
+.grid{
+    background-color:#fd34b3;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.fb{
+    display: flex;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+}
